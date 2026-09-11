@@ -1,0 +1,40 @@
+[
+  {
+    "block_index": 0,
+    "timestamp": "2026-09-11 14:53:53 UTC",
+    "case_id": "GENESIS-000",
+    "officer_id": "SYSTEM",
+    "sample_id": "N/A",
+    "presumptive_result": "GENESIS BLOCK",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "current_hash": "26ec3986f4a1819e8201f695cd8019ad7d2e16e96344307c5d258329c5b18733"
+  },
+  {
+    "block_index": 1,
+    "timestamp": "2026-09-11 14:54:08 UTC",
+    "case_id": "TEST-CASE-9001",
+    "officer_id": "Officer J. Doe (NCB-551)",
+    "sample_id": "SAMPLE-QR-7712",
+    "location": "Indira Gandhi International Airport, New Delhi",
+    "reagent_used": "Marquis Reagent",
+    "presumptive_result": "Opioid Class (Heroin / Morphine / Codeine)",
+    "confidence_score": 98.5,
+    "signature": "OFFICER_DIGITAL_SIGNATURE_SHA256",
+    "previous_hash": "26ec3986f4a1819e8201f695cd8019ad7d2e16e96344307c5d258329c5b18733",
+    "current_hash": "7090fc6383576bf167696c070d802041e868f50f33efeb8647e28bcf668f6db6"
+  },
+  {
+    "block_index": 2,
+    "timestamp": "2026-09-11 17:29:52 UTC",
+    "case_id": "CASE-2026-7792",
+    "officer_id": "Det. R. Sharma (IND-NCB-8492)",
+    "sample_id": "QR-VIAL-8821",
+    "location": "28.6139\u00b0 N, 77.2090\u00b0 E (New Delhi)",
+    "reagent_used": "Marquis Reagent",
+    "presumptive_result": "Opioid Class (Heroin / Morphine / Codeine)",
+    "confidence_score": 100.0,
+    "signature": "DIGITALLY_SIGNED_OFFICER",
+    "previous_hash": "7090fc6383576bf167696c070d802041e868f50f33efeb8647e28bcf668f6db6",
+    "current_hash": "8983f723298d1e06c16b35e665081293502b1fa728915acc5accba0bb7898ea9"
+  }
+]
