@@ -14,8 +14,13 @@ cd ForensicTrace-AI
 
 # 2. Create virtual environment & activate
 python -m venv venv
-.\venv\Scripts\activate       # Windows
-source venv/bin/activate      # Linux/Mac
+.\venv\Scripts\activate
+
+# Windows
+.\venv\Scripts\activate
+
+# Linux/Mac
+source venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
