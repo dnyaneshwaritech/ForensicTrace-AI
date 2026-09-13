@@ -10,7 +10,7 @@ An AI-assisted digital companion for field narcotics officers that standardizes 
 ```bash
 # 1. Clone repository
 git clone (https://github.com/dnyaneshwaritech/ForensicTrace-AI.git)
-cd digital-drug-detector
+cd ForensicTrace-AI
 
 # 2. Create virtual environment & activate
 python -m venv venv
